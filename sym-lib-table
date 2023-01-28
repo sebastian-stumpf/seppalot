@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-various.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-various.pretty")(options "")(descr ""))
+)
